@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project Sphinx - Community Day 2019)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "Sphinx - Community Day 2019",
+    "language": "java"
+  }
+]
