@@ -1,3 +1,3 @@
-"# 2019-610-Sphinx" 
-"# Drive Shifter Code Commented Out" 
-"# Shooter Speed Constant (Might update to shuffleboard slider)" 
+# Sphinx Drive Shifter Code
+- Drive shifter code currently commented out
+- Constant shooter speed  (Might update to shuffleboard slider)
